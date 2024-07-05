@@ -8,4 +8,4 @@ export default function Home() {
     <a href="/NITI">NITI</a>
   </div>
   );
-}
+} 
